@@ -1,5 +1,5 @@
 #include "sdk/hardware.h"
-#include "sdk/vram.h"
+#include "sdk/video.h"
 #include "sdk/oam.h"
 #include "sdk/assets.h"
 #include "sdk/joypad.h"
