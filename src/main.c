@@ -3,6 +3,7 @@
 #include "sdk/oam.h"
 #include "sdk/assets.h"
 #include "sdk/joypad.h"
+#include "sdk/interrupt.h"
 #include <string.h>
 
 ASSET(tiles, "tiles.2bpp");

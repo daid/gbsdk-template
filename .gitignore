@@ -1,5 +1,6 @@
 _build
 *.gb
+*.gbc
 *.map
 *.sym
 
